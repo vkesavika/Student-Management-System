@@ -1,0 +1,5 @@
+Place the MySQL Connector/J JAR file here.
+
+Download from: https://dev.mysql.com/downloads/connector/j/
+
+Expected filename pattern: mysql-connector-java-8.x.x.jar
